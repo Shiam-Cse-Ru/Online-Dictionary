@@ -8,7 +8,7 @@ master
 
 ##Live Demo
 
-bddictionary.netai.net
+http://bddictionary.netai.net/
 
 Installation
 
@@ -18,3 +18,9 @@ $ git clone https://github.com/shiam-cse-ru/Online-Dictionary.git Online-Diction
 Now you are all setup to go.
 Have any Question?
 Ask Me shiam546365@gmail.com
+
+##ScreenShoots
+HomePage<br>
+<img src="http://fs5.directupload.net/images/160620/eol7x3do.png"><br>
+Searching Words<br>
+<img src="http://fs5.directupload.net/images/160620/hrk2qesg.png">
